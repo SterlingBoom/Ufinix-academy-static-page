@@ -197,21 +197,7 @@ color:#ffffff;
    #word-people{
        padding-bottom: 50px;
    }
-   .image ul{
-       list-style: none;
-       font-weight: 900;
- }
-   .image  li{
-    display: inline;
-    padding-right: 20px;
-    
-    
- }
- .image li a{
-     width: 100px;
-     height: 200px;
-     
- }
+
 .copy{
     text-align: center;
     margin-top: 30px;
