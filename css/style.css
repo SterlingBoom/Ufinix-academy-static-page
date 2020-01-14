@@ -197,7 +197,17 @@ color:#ffffff;
    #word-people{
        padding-bottom: 50px;
    }
-
+   .image ul{
+    list-style: none;
+    
+}
+.image li{
+    display: inline;
+    padding: 10px;
+}
+.image li a{
+    height: 300px;
+}
 .copy{
     text-align: center;
     margin-top: 30px;
