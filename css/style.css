@@ -177,8 +177,8 @@ color:#ffffff;
    .css{ padding-top: 70px;
     
    }
-   .red{
-       padding: 10px 5px 5px 5px;
+   .fix{
+       padding-bottom:  5px;
        margin-top: 20px;
        width: 200px;
    }
@@ -194,9 +194,33 @@ color:#ffffff;
        font-weight: 400;
        font-size: 1.1rem;
    }
-   .word-people{
-       padding-bottom: 100px;
+   #word-people{
+       padding-bottom: 50px;
    }
+   .image ul{
+       list-style: none;
+       font-weight: 900;
+ }
+   .image  li{
+    display: inline;
+    padding-right: 20px;
+    
+    
+ }
+ .image li a{
+     width: 100px;
+     height: 200px;
+     
+ }
+.copy{
+    text-align: center;
+    margin-top: 30px;
 
+}
+.five-flex{
+    margin-top: 50px;
+}
 
-
+.logo-set{
+    margin-top: 70px;
+}
